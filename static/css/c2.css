@@ -1,0 +1,15 @@
+h1{
+    background-color: blueviolet;
+    color:white;
+    font-size: 30px;
+    border: 2px solid black;
+    
+}
+img{
+    width: 1000px;
+    height:600px;
+    border: 2px solid black;
+}
+body{
+    background-color: aqua;
+}
